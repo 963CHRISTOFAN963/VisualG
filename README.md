@@ -6,6 +6,11 @@ Aqui irei colocar todos os códigos praticados na **Uc09 - logica de programaç�
 ## A tela principal do Visualg
 ![60443652-12202c00-9bf2-11e9-947c-614f8ac883f0](https://user-images.githubusercontent.com/52283982/60517154-8ec80e80-9cb5-11e9-8e99-a91be5e20bc5.png)
 
+## Os menus do VisualG
+
+-Arquivo
+-Editar
+-Manutenção
 
 ## Minha tese sobre o Assunto "Markdown"
 Markdown é uma ferramenta de conversão de text-to-HTML. Com ele é possível você marcar títulos, listas, tabelas, etc., de forma muito mais limpa, legível e precisa, do que se fosse fazer com HTML.Existem vários lugares que você pode usar Markdown: No Github mesmo, você pode usar no README.md, que é um arquivo que fica na raiz do seu projeto, e é renderizado pelo Github abaixo da lista de arquivos. Aquele texto que você lê quando acessa um repositório é um arquivo README.md, escrito em Markdown.
