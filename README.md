@@ -33,5 +33,14 @@ Se você já tiver um parser, você só precisa criar um arquivo com uma dessas 
 Entre essas, a mais utilizada é a _md_. Crie um arquivo com uma dessas extensões e você já estará apto para começar a escrever em Markdown!
 
 
+## funções dos botões principais do Git Hub Parte I
+![60469491-3bad7780-9c33-11e9-9d76-1712cdb7ccd8](https://user-images.githubusercontent.com/52283982/60590153-a6fd6380-9d71-11e9-8e90-b117569692b0.png)
+
+## funções dos botões principais do Git Hub Parte II
+![60469672-048b9600-9c34-11e9-8ff5-7352ad896ebc](https://user-images.githubusercontent.com/52283982/60590197-cc8a6d00-9d71-11e9-9e0d-b46c3fbaf453.png)
+
+## A tela de trabalho do Git Hub
+![60470612-71545f80-9c37-11e9-94f3-f42f6feb38b5](https://user-images.githubusercontent.com/52283982/60590219-d8762f00-9d71-11e9-89ed-7a3cc0bd633b.png)
+
 
 
