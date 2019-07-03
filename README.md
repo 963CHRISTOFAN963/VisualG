@@ -8,11 +8,13 @@ Aqui irei colocar todos os códigos praticados na **Uc09 - logica de programaç�
 
 ## Os menus do VisualG
 
--Arquivo
--Editar
--Manutenção
+* Arquivo
+* Editar
+* Manutenção
+
 
 ## Minha tese sobre o Assunto "Markdown"
+
 Markdown é uma ferramenta de conversão de text-to-HTML. Com ele é possível você marcar títulos, listas, tabelas, etc., de forma muito mais limpa, legível e precisa, do que se fosse fazer com HTML.Existem vários lugares que você pode usar Markdown: No Github mesmo, você pode usar no README.md, que é um arquivo que fica na raiz do seu projeto, e é renderizado pelo Github abaixo da lista de arquivos. Aquele texto que você lê quando acessa um repositório é um arquivo README.md, escrito em Markdown.
 Ainda no Github, você pode usar Markdown no texto das issues, no texto de um pull request e na wiki.
 
@@ -49,13 +51,16 @@ Link na descrição ✌🏻
 Muitas pessoas acreditam que tudo é Git GitHub. E não é assim. Git é o programa e protocolo. E GitHub é um dos muitos serviços (como BitBucket ou gitlab) que você armazena código. Você pode usar o Git localmente, você pode pegar o seu próprio servidor Git, ou você pode usar um serviço existente, mas você não deve confundir GitHub com Git.
 
 
-##Aqui vai a Explicação do Git 
+## Aqui vai a Explicação do Git 
+
 ![1_jYiuHAPfMfZWjIYJUqqmQw](https://user-images.githubusercontent.com/52283982/60590924-99e17400-9d73-11e9-9506-dc6c27d6e00f.png)
+
 Git é uma ferramenta de controle de versões.
 Ele nos permite manter um histórico de todos os pontos de alterações dos nossos projetos ou simplesmente arquivos, permitindo também que cada pessoa trabalhe em uma versão diferente do mesmo projeto, impedindo que ao realizar uma alteração, não altere a versão que outra pessoa está trabalhando, assim caso haja algum erro, esse erro não irá refletir na versão de outra pessoa e se precisar é só voltar para uma versão anterior onde o projeto estava funcionando perfeitamente.
 
 
-##Aqui vai a Explicação ao Git Hub
+## Aqui vai a Explicação ao Git Hub
+
 ![1_nTSbunYHClWjxMm8Ne9pfQ](https://user-images.githubusercontent.com/52283982/60590852-6f8fb680-9d73-11e9-8ca8-d9a44f06fec7.jpeg)
 
 Github é um serviço web que permite a hospedagens de projetos git
@@ -68,10 +73,76 @@ https://www.youtube.com/watch?v=DnKJwQiKxjw
 
 
 ## O que esta esperando para usufluir do Git Hub?
+
 ![git hubb](https://user-images.githubusercontent.com/52283982/60591038-e462f080-9d73-11e9-8520-2e9189e09174.gif)
+
 Empresas estão cada vez mais utilizando esta ferramenta incrivel
+
 ![trtr](https://user-images.githubusercontent.com/52283982/60591126-268c3200-9d74-11e9-8546-1c246b1e34e7.jpg)
 
+## para formular uma calculado simples
 
+Algoritmo "Calculadora_Simples"
+
+var
+numUm, NumDois: real
+
+Inicio
+escreva("Digite o primeiro valor: ")
+Leia(numum)
+
+escreva("Digite o segundo valor: ")
+leia(numDois)
+
+escreval(" A soma dos Valores digitados é de: ", numum + numDois)
+escreval(" A subtração dos Valores digitados é de: ", numum - numDois)
+escreval(" A Multiplicação dos Valores digitados é de: ", numum * numDois)
+escreval(" A Divisão dos Valores digitados é de: ", numum / numDois)
+
+Fimalgoritmo
+
+## para formular calculdo de notas 
+
+Algoritmo "EscolXYZ"
+
+Var
+// Seção de Declarações das variáveis 
+nome: caractere
+notaUm, notaDois, notaTres , notaQuatro, media: real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+escreval ("======== escola XYZ ========")
+escreva("Digite o nome do aluno: ")
+leia(nome)
+escreval ("=======================")
+escreva ("Digite a primeira nota: ")
+leia(notaUm)
+
+escreva ("Digite a segunda nota: ")
+leia(notaDois)
+
+escreva ("Digite a terceira nota: ")
+leia(notaTres)
+
+escreva ("Digite a quarta nota: ")
+leia(notaQuatro)
+escreval("========================")
+
+media <- (notaUm + notaDois+ notaTres + notaQuatro)/4
+escreval("O aluno ", nome, " teve média ", media)
+escreval("========================")
+se media >= 7 entao
+   escreval("Aluno ", nome, " Aprovado! Parabéns!")
+   senao
+   se media < 4.5 entao
+      escreval("Reprovado!")
+      senao
+      escreval(" Aluno ", nome, " de Recuperação")
+
+   fimse
+fimse
+escreval("========================")
+Fimalgoritmo
 
 
