@@ -69,7 +69,7 @@ Ao hospedar um projeto no github possibilitamos que todos os envolvidos ou inter
 Alem disso o github nos concede diversas ferramentas para um melhor controle do projeto, como por exemplo quais usuários alteraram, o que foi alterando, quando foi alterado, possibilita aos usuários relatarem problemas e muito mais Mas por que usar o git e o github juntos?
 Pense que o git é quem fará o controle das versões dos seus projetos e o github será apenas o local onde você irá hospedar essas versões para tornar acessível a outras pessoas.
 
-https://www.youtube.com/watch?v=DnKJwQiKxjw
+[Link 01](https://www.youtube.com/watch?v=DnKJwQiKxjw "Clique e acesse agora!") 
 
 
 ## O que esta esperando para usufluir do Git Hub?
