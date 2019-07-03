@@ -101,9 +101,9 @@ escreval(" A Divisão dos Valores digitados é de: ", numum / numDois)
 
 Fimalgoritmo
 
-## para formular calculdo de notas 
+## para formular calculo de notas 
 
-Algoritmo "EscolXYZ"
+Algoritmo "Escola XYZ"
 
 Var
 // Seção de Declarações das variáveis 
@@ -145,4 +145,120 @@ fimse
 escreval("========================")
 Fimalgoritmo
 
+## para formular EXPRESSOES_ARITMETICAS
 
+Algoritmo "Expressoes_aritmeticas"
+
+Var
+a, b, c, d, z, t: real
+
+Inicio
+a <- 8 + 14
+b <- 5 - 2
+c <- 4 * 10
+d <- 10 / 2
+z <- 2 ^ 10
+t <- a + b + c + d * z
+
+Escreval("Valor de 'a': ", a)
+Escreval("Valor de 'b': ", b)
+Escreval("Valor de 'c': ", c)
+Escreval("Valor de 'd': ", d)
+Escreval("Valor de 'z': ", z)
+Escreval("Valor de 't': ", t)
+
+Fimalgoritmo
+
+
+## para formular MOD
+
+Algoritmo "mod"
+
+Var
+x, y, quoc, resto: inteiro
+
+Inicio
+escreva("valor de X é: ")
+leia(x)
+
+escreva("valor de y é: ")
+leia(y)
+
+quoc <- x div y
+resto <-x mod y
+escreval("===============================")
+escreval("o quociente da divisão dos valores informados é: ", quoc)
+escreval("o resto da divisão dos valores informados é: ",resto)
+
+Fimalgoritmo
+
+## para formular Operadores relacionados
+
+Algoritmo "Operadores relacionados"
+
+Var
+a ,b: inteiro
+r01 ,r02 ,r03 ,r04: logico
+
+
+Inicio
+a <- 10
+b <- 10
+
+r01 <- a = b
+r02 <- a <> b
+r03 <- a >= b
+r04 <- a <= b
+
+escreval("=========================================================")
+escreval("teste com operador igual a: ", a, " = ", b, "?", r01)
+escreval("=========================================================")
+escreval("teste com operador diferente a: ", a, " = ", b, "?", r02)
+escreval("=========================================================")
+escreval("teste com operador maior ou igual a: ", a, " = ", b, "?", r03)
+escreval("=========================================================")
+escreval("teste com operador menor ou igual a: ", a, " = ", b, "?", r04)
+escreval("=========================================================")
+
+escreval("                         {-}                          ")
+
+
+Fimalgoritmo
+
+## para formular Raiz_quadrada
+
+Algoritmo "Raiz_quadrada"
+
+Var
+a, b: real
+
+Inicio
+a <- 45
+b <- raizq(a)
+
+Escreval ("o resultado é: ", b)
+
+Fimalgoritmo
+
+
+## para formular Usuario
+
+Algoritmo "Usuario"
+
+Var
+// Seção de Declarações das variáveis 
+nome: caractere
+notaUm, notaDois, notaTres , notaQuatro, media: real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+escreval ("========Usuario========")
+escreva("Digite o nome do Usuario: ")
+leia(nome)
+escreval ("=======================")
+
+
+escreval ("seja bem vindo")
+escreval("========================")
+
+Fimalgoritmo
