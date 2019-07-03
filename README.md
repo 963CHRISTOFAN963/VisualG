@@ -57,7 +57,9 @@ Ele nos permite manter um histórico de todos os pontos de alterações dos noss
 
 ##Aqui vai a Explicação ao Git Hub
 ![1_nTSbunYHClWjxMm8Ne9pfQ](https://user-images.githubusercontent.com/52283982/60590852-6f8fb680-9d73-11e9-8ca8-d9a44f06fec7.jpeg)
+
 Github é um serviço web que permite a hospedagens de projetos git
+
 Ao hospedar um projeto no github possibilitamos que todos os envolvidos ou interessados no projeto tenham um acesso mais fácil e trabalhem de forma centralizada e organizada
 Alem disso o github nos concede diversas ferramentas para um melhor controle do projeto, como por exemplo quais usuários alteraram, o que foi alterando, quando foi alterado, possibilita aos usuários relatarem problemas e muito mais Mas por que usar o git e o github juntos?
 Pense que o git é quem fará o controle das versões dos seus projetos e o github será apenas o local onde você irá hospedar essas versões para tornar acessível a outras pessoas.
