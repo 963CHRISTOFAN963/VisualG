@@ -43,4 +43,33 @@ Entre essas, a mais utilizada é a _md_. Crie um arquivo com uma dessas extensõ
 ![60470612-71545f80-9c37-11e9-94f3-f42f6feb38b5](https://user-images.githubusercontent.com/52283982/60590219-d8762f00-9d71-11e9-89ed-7a3cc0bd633b.png)
 
 
+## Qual a diferença de Git e Git Hub?
+Link na descrição ✌🏻
+
+Muitas pessoas acreditam que tudo é Git GitHub. E não é assim. Git é o programa e protocolo. E GitHub é um dos muitos serviços (como BitBucket ou gitlab) que você armazena código. Você pode usar o Git localmente, você pode pegar o seu próprio servidor Git, ou você pode usar um serviço existente, mas você não deve confundir GitHub com Git.
+
+
+##Aqui vai a Explicação do Git 
+![1_jYiuHAPfMfZWjIYJUqqmQw](https://user-images.githubusercontent.com/52283982/60590924-99e17400-9d73-11e9-9506-dc6c27d6e00f.png)
+Git é uma ferramenta de controle de versões.
+Ele nos permite manter um histórico de todos os pontos de alterações dos nossos projetos ou simplesmente arquivos, permitindo também que cada pessoa trabalhe em uma versão diferente do mesmo projeto, impedindo que ao realizar uma alteração, não altere a versão que outra pessoa está trabalhando, assim caso haja algum erro, esse erro não irá refletir na versão de outra pessoa e se precisar é só voltar para uma versão anterior onde o projeto estava funcionando perfeitamente.
+
+
+##Aqui vai a Explicação ao Git Hub
+![1_nTSbunYHClWjxMm8Ne9pfQ](https://user-images.githubusercontent.com/52283982/60590852-6f8fb680-9d73-11e9-8ca8-d9a44f06fec7.jpeg)
+Github é um serviço web que permite a hospedagens de projetos git
+Ao hospedar um projeto no github possibilitamos que todos os envolvidos ou interessados no projeto tenham um acesso mais fácil e trabalhem de forma centralizada e organizada
+Alem disso o github nos concede diversas ferramentas para um melhor controle do projeto, como por exemplo quais usuários alteraram, o que foi alterando, quando foi alterado, possibilita aos usuários relatarem problemas e muito mais Mas por que usar o git e o github juntos?
+Pense que o git é quem fará o controle das versões dos seus projetos e o github será apenas o local onde você irá hospedar essas versões para tornar acessível a outras pessoas.
+
+https://www.youtube.com/watch?v=DnKJwQiKxjw
+
+
+## O que esta esperando para usufluir do Git Hub?
+![git hubb](https://user-images.githubusercontent.com/52283982/60591038-e462f080-9d73-11e9-8520-2e9189e09174.gif)
+Empresas estão cada vez mais utilizando esta ferramenta incrivel
+![trtr](https://user-images.githubusercontent.com/52283982/60591126-268c3200-9d74-11e9-8546-1c246b1e34e7.jpg)
+
+
+
 
